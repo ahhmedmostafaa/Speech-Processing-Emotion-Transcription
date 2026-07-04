@@ -31,8 +31,3 @@ jupyter notebook speech-to-text/speech_to_text.ipynb
 jupyter notebook speech-emotion-recognition/speech_project.ipynb
 ```
 > Note: notebooks were originally run on Google Colab with the dataset stored on Google Drive — update the file paths to match your local/Colab environment.
-
-## Roadmap
-- [ ] Report Word Error Rate (WER) for the speech-to-text pipeline
-- [ ] Compare SVM against a neural network classifier for emotion recognition
-- [ ] Add a confusion matrix visualization for the emotion classifier
