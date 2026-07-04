@@ -15,7 +15,7 @@ Classifies the emotional tone of speech from extracted acoustic features.
 - Evaluates with a classification report (precision/recall/F1 per emotion class)
 
 ## Dataset
-Both projects use the **RAVDESS** (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset.
+[RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)](https://zenodo.org/records/1188976) — 24 professional actors performing speech with 8 emotions, used here for both transcription and emotion classification.
 
 ## Tech Stack
 - Python
